@@ -1,5 +1,0 @@
-/Users/marharyta.zhmakina/Documents/Homework/csharp-homeworks/homework1/Hw1.Exercise1/obj/Debug/net6.0/Hw1.Exercise1.csproj.AssemblyReference.cache
-/Users/marharyta.zhmakina/Documents/Homework/csharp-homeworks/homework1/Hw1.Exercise1/obj/Debug/net6.0/Hw1.Exercise1.GeneratedMSBuildEditorConfig.editorconfig
-/Users/marharyta.zhmakina/Documents/Homework/csharp-homeworks/homework1/Hw1.Exercise1/obj/Debug/net6.0/Hw1.Exercise1.AssemblyInfoInputs.cache
-/Users/marharyta.zhmakina/Documents/Homework/csharp-homeworks/homework1/Hw1.Exercise1/obj/Debug/net6.0/Hw1.Exercise1.AssemblyInfo.cs
-/Users/marharyta.zhmakina/Documents/Homework/csharp-homeworks/homework1/Hw1.Exercise1/obj/Debug/net6.0/Hw1.Exercise1.csproj.CoreCompileInputs.cache
