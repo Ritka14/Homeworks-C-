@@ -6,6 +6,12 @@
     &lt;TestId&gt;xUnit::B9956BC6-FEFD-4A7C-82C1-249F51517D6A::net7.0::Hw1.Tests.Exercise2.AreaCalcTests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8da4f75e_002D6dac_002D47e2_002D8821_002Dc1c3be6db95e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from PrimeNumbersTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;ProjectFile&gt;B9956BC6-FEFD-4A7C-82C1-249F51517D6A/d:Exercise1/f:PrimeNumbersTests.cs&lt;/ProjectFile&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=46c819c4_002D51fa_002D4755_002Db081_002D6831f430ea89/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from GameTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;B9956BC6-FEFD-4A7C-82C1-249F51517D6A/d:Exercise3/f:GameTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8da4f75e_002D6dac_002D47e2_002D8821_002Dc1c3be6db95e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from PrimeNumbersTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;B9956BC6-FEFD-4A7C-82C1-249F51517D6A/d:Exercise1/f:PrimeNumbersTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;B9956BC6-FEFD-4A7C-82C1-249F51517D6A/d:Exercise3/f:GameTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
